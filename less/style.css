@@ -1,0 +1,30 @@
+.header {
+  margin: 1000px;
+}
+.header .block {
+  padding: 1000px;
+  
+}
+.header .block p {
+  text-decoration: none;
+}
+.header .block h3 {
+  color: #2d2488a9;
+}
+.header .block h1 {
+  color: #32b674d5 d5;
+  font-weight: 500;
+}
+.header .block h2 {
+  display: inline-block;
+  margin: 0 auto;
+  height: 80%;
+  color: rgba(46, 19, 167, 0.11);
+}
+.header .block h4 {
+  margin: 0 auto;
+  height: 80%;
+}
+.header .block a {
+  display: inline-block;
+}
