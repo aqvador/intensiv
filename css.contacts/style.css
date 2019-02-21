@@ -49,7 +49,8 @@ body {
     transition: all .5s;
     border-bottom: 2px solid rgba(255, 255, 255, 0);
 }
-.menu li a{
+
+.menu li a {
     font-family: Montserrat;
     color: #8c8c8c;
     font-size: 14px;
@@ -60,10 +61,12 @@ body {
     padding: 0 20px;
     transition: all .5s;
 }
+
 .menu li:nth-child(-n+5):hover {
     border-bottom: 2px solid black;
     transform: scale(1.3);
 }
+
 .menu li a:hover {
     color: #212121;
     font-weight: 500;
@@ -178,10 +181,8 @@ footer {
 .row1 h3 a {
     color: #6c6c6c;
     font-size: 18px;
-    /* Приближение из-за подстановки шрифтов */
     font-weight: 700;
     line-height: 24px;
-    /* Приближение из-за подстановки шрифтов */
     text-align: left;
     text-decoration: none;
 }
@@ -200,20 +201,16 @@ footer {
 .row2_dt4 ul li {
     color: #212121;
     font-size: 14px;
-    /* Приближение из-за подстановки шрифтов */
     font-weight: 300;
     line-height: 22px;
-    /* Приближение из-за подстановки шрифтов */
 }
 
 .row2_dt2 ul li a,
 .row2_dt3 ul li a {
     color: #212121;
     font-size: 14px;
-    /* Приближение из-за подстановки шрифтов */
     font-weight: 700;
     line-height: 26px;
-    /* Приближение из-за подстановки шрифтов */
 }
 
 .row2_dt1 ul li:nth-child(1),
@@ -274,10 +271,8 @@ input {
 .row3_td3 p {
     color: #6c6c6c;
     font-size: 12px;
-    /* Приближение из-за подстановки шрифтов */
     font-weight: 700;
     line-height: 26px;
-    /* Приближение из-за подстановки шрифтов */
 }
 
 .row3_td2 {
